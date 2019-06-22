@@ -1,0 +1,39 @@
+Folder Name : Dir
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\dir.txt - Copy (2).txt
+
+Folder Name : Dir
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\dir.txt - Copy (3).txt
+
+Folder Name : Dir
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\dir.txt - Copy.txt
+
+Folder Name : Dir
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\dir.txt.txt
+
+Folder Name : Dir\abc
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\abc\abc.txt - Copy (2).txt
+
+Folder Name : Dir\abc
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\abc\abc.txt - Copy (3).txt
+
+Folder Name : Dir\abc
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\abc\abc.txt - Copy (4).txt
+
+Folder Name : Dir\abc
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\abc\abc.txt - Copy.txt
+
+Folder Name : Dir\abc
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\abc\abc.txt.txt
+
+Folder Name : Dir\xyz
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\xyz\xyz.txt - Copy (2).txt
+
+Folder Name : Dir\xyz
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\xyz\xyz.txt - Copy (3).txt
+
+Folder Name : Dir\xyz
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\xyz\xyz.txt - Copy.txt
+
+Folder Name : Dir\xyz
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 10\Dir\xyz\xyz.txt.txt
+

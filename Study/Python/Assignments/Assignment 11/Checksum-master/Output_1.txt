@@ -1,0 +1,8 @@
+File Checksum :
+
+07ba1f0f7da103bf0723159151b77923 : ['F:\\ALL SOFTWARE\\marvellous study material\\Python\\Assignments\\Assignment 11\\dir\\abc - Copy.txt', 'F:\\ALL SOFTWARE\\marvellous study material\\Python\\Assignments\\Assignment 11\\dir\\abc.txt']
+
+663ba458f016aca6bdcad5379e5e4d8d : ['F:\\ALL SOFTWARE\\marvellous study material\\Python\\Assignments\\Assignment 11\\dir\\pqr - Copy.txt', 'F:\\ALL SOFTWARE\\marvellous study material\\Python\\Assignments\\Assignment 11\\dir\\pqr.txt']
+
+37747e75aeb4eafe67787aafcabf5510 : ['F:\\ALL SOFTWARE\\marvellous study material\\Python\\Assignments\\Assignment 11\\dir\\xyz - Copy.txt', 'F:\\ALL SOFTWARE\\marvellous study material\\Python\\Assignments\\Assignment 11\\dir\\xyz.txt']
+

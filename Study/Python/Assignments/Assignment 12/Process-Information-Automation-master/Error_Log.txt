@@ -1,0 +1,5 @@
+
+
+ Error :  [Errno 22] Invalid argument: 'Demo\\Marvellous_Fri_Apr_26_00:19:21_2019.log'
+ Log Time 2019-04-26 00:19:21.185036
+

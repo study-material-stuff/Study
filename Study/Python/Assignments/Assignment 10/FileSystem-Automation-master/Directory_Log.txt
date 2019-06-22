@@ -1,0 +1,44 @@
+
+ Error :  division by zero
+ Log Time 2019-04-14 10:10:33.961044
+
+
+
+ Error :  division by zero
+ Log Time 2019-04-14 10:11:21.559162
+
+
+
+ Error :  [WinError 2] The system cannot find the file specified: 'dir.txt - Copy (2).txt' -> 'dir.doc - Copy (2).doc'
+ Log Time 2019-04-14 10:30:02.525652
+
+
+
+ Error :  [WinError 2] The system cannot find the file specified: 'Dir - Copy (2).txt' -> 'Dir - Copy (2).doc'
+ Log Time 2019-04-14 10:32:53.255042
+
+
+
+ Error :  name 'f' is not defined
+ Log Time 2019-04-14 11:00:49.186523
+
+
+
+ Error :  [WinError 183] Cannot create a file when that file already exists: 'Dir_Temp'
+ Log Time 2019-04-14 11:01:25.324700
+
+
+
+ Error :  [Errno 2] No such file or directory: 'Dir - Copy (2).doc'
+ Log Time 2019-04-14 11:02:01.265065
+
+
+
+ Error :  [WinError 183] Cannot create a file when that file already exists: 'Dir_Temp'
+ Log Time 2019-04-14 11:02:45.945819
+
+
+
+ Error :  name 'FileExt1' is not defined
+ Log Time 2019-04-14 11:23:10.151276
+

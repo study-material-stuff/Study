@@ -1,0 +1,20 @@
+
+
+ Error :  write() argument must be str, not list
+ Log Time 2019-04-17 20:40:41.503732
+
+
+
+ Error :  name 'path' is not defined
+ Log Time 2019-04-17 21:00:41.136955
+
+
+
+ Error :  name 'DeleteDuplicateFiles' is not defined
+ Log Time 2019-04-17 21:42:39.673153
+
+
+
+ Error :  can only concatenate str (not "list") to str
+ Log Time 2019-04-17 22:03:55.832765
+
