@@ -101,7 +101,7 @@ def main():
 		To_Email = argv[3];
 		
 		schedule.every(Time_Interval).minutes.do(lambda : CreateOutput(DirName));
-		schedule.every().day.at("15:45").do( lambda : CreateMail(To_Email,OutputFile,ScanTime,LogTime,FileScanCount,FileDeleteCount));
+		schedule.every().day.at("19:00").do( lambda : CreateMail(To_Email,OutputFile,ScanTime,LogTime,FileScanCount,FileDeleteCount));
 		
 		while True:
 			schedule.run_pending();

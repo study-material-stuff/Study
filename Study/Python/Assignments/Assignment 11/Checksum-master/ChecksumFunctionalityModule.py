@@ -32,6 +32,7 @@ def GetChecksum(DirName):
 
 				if(file_hash in duplicate):
 					duplicate[file_hash].append(DirName);
+					print(DirName)
 				else:
 					duplicate[file_hash] = [DirName];
 

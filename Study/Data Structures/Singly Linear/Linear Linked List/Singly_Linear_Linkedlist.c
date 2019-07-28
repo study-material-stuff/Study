@@ -205,6 +205,15 @@ void Display(PNODE first)
 	}
 }
 
+void DisplayRev(PNODE first)
+{
+	if( first != NULL )
+	{
+		DisplayRev(first -> next);
+		printf("%d \n",first -> data);		
+	}
+}
+
 int Count(PNODE first)
 {
 	int i = 0;
@@ -218,23 +227,71 @@ int Count(PNODE first)
 	return i;
 }
 
+void ReverseLinkedList(PPNODE first)
+{
+	PNODE Prev = NULL;
+	PNODE Cur = NULL;
+	PNODE Next = NULL;
+	int Cnt = Count(*first);
+		
+	if(Cnt == 1)
+	{
+		return;
+	}	
+	
+	if(Cnt > 2)
+	{
+		Prev = *first;
+		Cur = Prev -> next;
+		Next = Cur -> next;
+
+		Prev -> next = NULL;
+		
+
+		while(Next != NULL)
+		{
+			Cur -> next = Prev;
+			Prev = Cur;
+			Cur = Next;
+			Next = Next -> next ;
+		}
+	
+		if(Next == NULL)
+		{
+			Cur -> next = Prev;		
+		}
+
+	}
+	else 
+	{
+		Prev = *first;
+		Cur = Prev -> next;
+
+		Prev -> next = NULL;
+		Cur -> next = Prev;
+	}
+
+	*first = Cur;
+
+}
+
 int main()
 {
 	PNODE head = NULL;
 
-	InsertAtFirst(&head,11);
-	InsertAtFirst(&head,21);
-	InsertAtFirst(&head,51);
-	InsertAtPos(&head,1,10);
-	InsertAtPos(&head,2,20);
-	InsertAtPos(&head,3,30);
+	InsertAtLast(&head,11);
+	InsertAtLast(&head,21);
+	InsertAtLast(&head,51);
+	InsertAtLast(&head,101);
+	InsertAtLast(&head,121);
+	
 	
 	Display(head);
-	
-	DeleteAtPos(&head,1);
 	
 	printf("\n\n\n");	
 
-	Display(head);
+	ReverseLinkedList(&head);
+
+	DisplayRev(head);
 	return 0;
 }
